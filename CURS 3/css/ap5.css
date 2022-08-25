@@ -1,0 +1,12 @@
+#primul{
+    color: red;
+}
+#primul:hover{
+    color: aqua;
+}
+.demo{
+    color: blue;
+}
+.demo123{
+    font-size: 28px;
+}

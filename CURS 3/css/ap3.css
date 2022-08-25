@@ -1,0 +1,17 @@
+/* #divdemo{
+    color: blue;
+} */
+/*
+div,p
+div>p
+div p
+*/
+ div p{
+    color: blue;
+ }
+ section>p {
+    color: green;
+ }
+ div~p{
+    color: red;
+ }
